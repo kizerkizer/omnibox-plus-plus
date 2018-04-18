@@ -1,0 +1,15 @@
+{
+  "name": "omnibox-plus-plus",
+  "version": "1.0.0",
+  "description": "Extend functionality of omniboxes (url bars) of various browsers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "omnibox++",
+    "omnibox"
+  ],
+  "author": "Alex Kizer",
+  "license": "ISC"
+}
