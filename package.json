@@ -11,5 +11,8 @@
     "omnibox"
   ],
   "author": "Alex Kizer",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.8.1"
+  }
 }
